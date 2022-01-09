@@ -1,0 +1,3 @@
+[submodule "styles"]
+	path = styles
+	url = https://github.com/priyadharshinir1894/styles.git
